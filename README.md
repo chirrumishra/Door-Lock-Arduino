@@ -3,5 +3,4 @@
 ## Circuit
 ![](outputs/door_lock.png)
 
-## Working Circuit
-![](outputs/door_lock.mov)
+
